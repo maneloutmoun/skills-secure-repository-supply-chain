@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+<h1></h1>
 # Secure your repository's supply chain
 
 _Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them._
